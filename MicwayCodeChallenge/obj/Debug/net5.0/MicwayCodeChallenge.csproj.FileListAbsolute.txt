@@ -1,0 +1,183 @@
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\appsettings.Development.json
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\appsettings.json
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.exe
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.deps.json
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.runtimeconfig.json
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.runtimeconfig.dev.json
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\ref\MicwayCodeChallenge.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.pdb
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Humanizer.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\pj\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.AssemblyReference.cache
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.AssemblyInfoInputs.cache
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.AssemblyInfo.cs
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.CoreCompileInputs.cache
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.MvcApplicationPartsAssemblyInfo.cs
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.MvcApplicationPartsAssemblyInfo.cache
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\staticwebassets\MicwayCodeChallenge.StaticWebAssets.Manifest.cache
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\staticwebassets\MicwayCodeChallenge.StaticWebAssets.xml
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\scopedcss\bundle\MicwayCodeChallenge.styles.css
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.CopyComplete
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.dll
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\ref\MicwayCodeChallenge.dll
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.pdb
+C:\pj\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.genruntimeconfig.cache
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\appsettings.Development.json
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\appsettings.json
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.exe
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.deps.json
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.runtimeconfig.json
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.runtimeconfig.dev.json
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\ref\MicwayCodeChallenge.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.pdb
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Humanizer.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.AssemblyReference.cache
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.AssemblyInfoInputs.cache
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.AssemblyInfo.cs
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.CoreCompileInputs.cache
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\staticwebassets\MicwayCodeChallenge.StaticWebAssets.Manifest.cache
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\staticwebassets\MicwayCodeChallenge.StaticWebAssets.xml
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\scopedcss\bundle\MicwayCodeChallenge.styles.css
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.RazorTargetAssemblyInfo.cache
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.CopyComplete
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.dll
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\ref\MicwayCodeChallenge.dll
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.pdb
+D:\Personal\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.genruntimeconfig.cache
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\appsettings.Development.json
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\appsettings.json
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.exe
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.deps.json
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.runtimeconfig.json
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.runtimeconfig.dev.json
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\ref\MicwayCodeChallenge.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\MicwayCodeChallenge.pdb
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Humanizer.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\pj\New folder\test\MicwayCodeChallenge\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.AssemblyReference.cache
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.AssemblyInfoInputs.cache
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.AssemblyInfo.cs
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.CoreCompileInputs.cache
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.MvcApplicationPartsAssemblyInfo.cs
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.MvcApplicationPartsAssemblyInfo.cache
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\staticwebassets\MicwayCodeChallenge.StaticWebAssets.Manifest.cache
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\staticwebassets\MicwayCodeChallenge.StaticWebAssets.xml
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\scopedcss\bundle\MicwayCodeChallenge.styles.css
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.csproj.CopyComplete
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.dll
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\ref\MicwayCodeChallenge.dll
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.pdb
+C:\pj\New folder\test\MicwayCodeChallenge\obj\Debug\net5.0\MicwayCodeChallenge.genruntimeconfig.cache
